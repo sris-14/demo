@@ -5,4 +5,4 @@ This is a demo repository , just to get started with git and github...
 Shradha Mam
 
 # Student
-Student
+Srishti
